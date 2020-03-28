@@ -28,3 +28,11 @@ d. How do you keep the parrot maintainable? What if we need another parrot<br>
 lives near a Duck? Or near a phone that rings frequently?<br>
 -&gt; I try using Abstract class for Parrot in general with implement interface sing, then If you are parrot near dog just create new class and extend from this Parrot then you must have method sing.</li>
 </ol>
+<hr>
+<p class="has-line-data" data-line-start="2" data-line-end="3">B. Model fish as well as other swimming animals</p>
+<ol>
+<li class="has-line-data" data-line-start="3" data-line-end="7">In addition to the birds, can you model a fish?<br>
+a. Fishes don’t sing -&gt; YES<br>
+b. Fishes don’t walk - YES<br>
+c. Fishes can swim -&gt; YES</li>
+</ol>
