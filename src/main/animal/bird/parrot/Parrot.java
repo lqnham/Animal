@@ -1,10 +1,12 @@
 package main.animal.bird.parrot;
 
+import main.animal.Animal;
 import main.animal.action.interfaces.SingInterface;
 
-public abstract class Parrot implements SingInterface{
+public class Parrot extends Animal implements SingInterface{
 	
-	public void sound() {
+	@Override
+	public void sing() {
 		System.out.println("default sound");
 	}
 }

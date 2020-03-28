@@ -4,7 +4,6 @@ import main.animal.action.interfaces.FlyInterface;
 
 public class Butterfly extends Metamorphosis implements FlyInterface{
 	
-	
 	@Override
 	public void fly() {
 	}

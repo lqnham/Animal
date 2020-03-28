@@ -1,6 +1,6 @@
 package main.animal.butterly;
 
-public abstract class Metamorphosis {
+public abstract class Metamorphosis{
 	protected Metamorphosis nextMetamorphose;
     
 	public void acceptMetamorphosis(Processing process) {

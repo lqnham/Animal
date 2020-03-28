@@ -6,6 +6,9 @@ import main.animal.fish.properties.Size;
 
 public class Shark extends Fish{
 	
+	public Shark() {
+	}
+	
 	public Shark(Color color, Size size, Action action) {
 		color = Color.GREY;
 		size = Size.LARGE;

@@ -1,6 +1,6 @@
 package main.animal.bird.parrot;
 
-public class ParrotNearCar extends Parrot{
+public class ParrotNearCat extends Parrot{
 
 	@Override
 	public void sing() {
