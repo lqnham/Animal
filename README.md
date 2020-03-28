@@ -36,3 +36,12 @@ a. Fishes don’t sing -&gt; YES<br>
 b. Fishes don’t walk - YES<br>
 c. Fishes can swim -&gt; YES</li>
 </ol>
+
+<li class="has-line-data" data-line-start="8" data-line-end="13">
+<p class="has-line-data" data-line-start="8" data-line-end="13">Can you specialize the fish as a Shark and as a Clownfish?<br>
+a. Sharks are large and grey -&gt; YES<br>
+b. Clownfish are small and colourful (orange) -&gt; YES<br>
+c. Clownfish make jokes -&gt; YES<br>
+d. Sharks eat other fish -&gt; YES</p>
+</li>
+</ol>
