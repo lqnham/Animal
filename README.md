@@ -46,7 +46,14 @@ c. Clownfish make jokes -&gt; YES<br>
 d. Sharks eat other fish -&gt; YES</p>
 </li>
 </ol>
-2. Can you optimize your model to account for the metamorphosis from caterpillar to
-butterfly?
-a. A caterpillar cannot fly
-b. A caterpillar can walk (crawl)
+
+<ol start="3">
+<li class="has-line-data" data-line-start="8" data-line-end="13">
+<p class="has-line-data" data-line-start="8" data-line-end="13">Can you optimize your model to account for the metamorphosis from caterpillar to butterfly?<br>
+a. A caterpillar cannot fly -&gt; YES<br>
+b. A caterpillar can walk (crawl) -&gt; YES<br>
+ </p>
+</li>
+</ol>
+Can you share the code to count:-> YES
+
