@@ -9,7 +9,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import main.animal.Animal;
-import main.animal.Bird;
+import main.animal.bird.Bird;
 
 public class SolutionTest {
 	private ByteArrayOutputStream out = new ByteArrayOutputStream();
